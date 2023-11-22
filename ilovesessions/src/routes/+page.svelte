@@ -12,28 +12,25 @@
 <main>
     <div class="timeline">
         <div class="timeline-item">
-          <h4>Event 1: Project Kickoff</h4>
-          <p>The project officially begins with a meeting to establish goals, define roles, and outline the timeline.</p>
+          <h4>We ♥ Web 1: Masterclass AI by Fatih</h4>
+          <p>No date</p>
+          <p>Masterclass about how to utilize the use of AI in Front end</p>
+          <br>
+          <a href="/aimasterclass" class="add-button">Read More</a>
         </div>
       
         <div class="timeline-item">
-          <h4>Event 2: Design Phase Completion</h4>
-          <p>The design team finalizes the project's user interface and user experience, ensuring a seamless and intuitive user journey.</p>
+          <h4>We ♥ Web 2: Yolijn van der Kolk</h4>
+          <p>VRIJDAG 24/11/23</p>
+          <p>TBD</p>
+          <br>
         </div>
       
         <div class="timeline-item">
-          <h4>Event 3: Development Phase Begins</h4>
-          <p>The development team commences coding the project, bringing the design elements to life and implementing the core functionalities.</p>
-        </div>
-      
-        <div class="timeline-item">
-          <h4>Event 4: Testing and Bug Fixing</h4>
-          <p>Rigorous testing is conducted to identify and resolve any bugs or glitches, ensuring the project's stability and performance.</p>
-        </div>
-      
-        <div class="timeline-item">
-          <h4>Event 5: Deployment and Launch</h4>
-          <p>The project is successfully deployed and launched, making it accessible to users and marking the culmination of the development journey.</p>
+          <h4>We ♥ Web 3: Julie Miocene</h4>
+          <p>VRIJDAG 15/12/23</p>
+          <p>About CSS</p>
+          <br>
         </div>
       </div>
 </main>
@@ -41,8 +38,6 @@
 <Footer />
 
 <style>
-
-
 .timeline {
   display: flex;
   flex-direction: column;
@@ -90,4 +85,27 @@
 .timeline-item p {
   font-size: 14px;
 }
+
+.add-button {
+  position: absolute;
+  right: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: #050542;
+  color: #66e5bf;
+  padding: 10px 20px;
+  border: #66e5bf 1px solid;
+  cursor: pointer;
+  z-index: 1;
+}
+
+@media (max-width: 768px) {
+  .add-button {
+    position: static;
+    display: block;
+    margin: 20px auto;
+    width: 100%;
+  }
+}
+
 </style>

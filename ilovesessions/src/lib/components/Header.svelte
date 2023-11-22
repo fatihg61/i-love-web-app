@@ -9,6 +9,7 @@ import { FdndLogo } from '@fdnd/components';
   <ul class="menu">
     <li><a href="#about">About</a></li>
   </ul>
+  <h1 class="header-title">The we love web sessions blog by me FG!</h1>
 </header>
     
 
@@ -18,6 +19,10 @@ import { FdndLogo } from '@fdnd/components';
   position: sticky;
   width: 100%;
   z-index: 3;
+}
+
+.header-title {
+  text-align: center;
 }
 
 .header ul {
