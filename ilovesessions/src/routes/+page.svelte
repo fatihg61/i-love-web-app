@@ -41,6 +41,8 @@
 <Footer />
 
 <style>
+
+
 .timeline {
   display: flex;
   flex-direction: column;

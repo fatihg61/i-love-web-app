@@ -1,24 +1,21 @@
 <script>
-
+import { FdndLogo } from '@fdnd/components';
 </script>
     
 <header class="header">
-  <a href="" class="logo">CSS Nav</a>
+  <FdndLogo />
   <input class="menu-btn" type="checkbox" id="menu-btn" />
   <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
   <ul class="menu">
-    <li><a href="#work">Our Work</a></li>
     <li><a href="#about">About</a></li>
-    <li><a href="#careers">Careers</a></li>
-    <li><a href="#contact">Contact</a></li>
   </ul>
 </header>
     
+
 <style>
 .header {
-  background-color: #fff;
   box-shadow: 1px 1px 4px 0 rgba(0,0,0,.1);
-  position: fixed;
+  position: sticky;
   width: 100%;
   z-index: 3;
 }
@@ -28,28 +25,14 @@
   padding: 0;
   list-style: none;
   overflow: hidden;
-  background-color: #fff;
 }
 
 .header li a {
   display: block;
   padding: 20px 20px;
-  border-right: 1px solid #f4f4f4;
   text-decoration: none;
 }
 
-.header li a:hover,
-.header .menu-btn:hover {
-  background-color: #f4f4f4;
-}
-
-.header .logo {
-  display: block;
-  float: left;
-  font-size: 2em;
-  padding: 10px 20px;
-  text-decoration: none;
-}
 
 /* menu */
 
