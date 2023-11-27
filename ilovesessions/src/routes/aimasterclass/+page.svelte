@@ -5,10 +5,10 @@
 
 <Header />
 
+<h1 class="header-title">Fatih's talk over AI in front end</h1>
+
 <main>
     <article>
-        <main>
-            <article>
               <h1>AI Revolutioneert Front-End Ontwikkeling</h1>
               <p>De wereld van front-end ontwikkeling is ingrijpend veranderd door de opkomst van artificial intelligence (AI) tools zoals ChatGPT en Bard.
                 Deze geavanceerde AI-modellen stellen front-end ontwikkelaars in staat om workflows te stroomlijnen, gebruikerservaringen te verbeteren en creatieve mogelijkheden uit te breiden.</p>
@@ -36,9 +36,7 @@
               </ul>
           
               <h2>Conclusie</h2>
-              <p>De integratie van AI in front-end ontwikkeling markeert een nieuw tijdperk van innovatie en efficiëntie. ChatGPT, Bard en andere AI-tools stellen ontwikkelaars in staat om meer gepersonaliseerde, boeiende en creatieve digitale ervaringen te creëren. Naarmate de AI-technologie zich blijft ontwikkelen, kunnen we nog meer transformerende toepassingen verwachten op het gebied van front-end ontwikkeling.</p>
-            </article>
-          </main>          
+              <p>De integratie van AI in front-end ontwikkeling markeert een nieuw tijdperk van innovatie en efficiëntie. ChatGPT, Bard en andere AI-tools stellen ontwikkelaars in staat om meer gepersonaliseerde, boeiende en creatieve digitale ervaringen te creëren. Naarmate de AI-technologie zich blijft ontwikkelen, kunnen we nog meer transformerende toepassingen verwachten op het gebied van front-end ontwikkeling.</p>      
     </article>
     </main>
 
@@ -46,9 +44,16 @@
 
 <style>
 
+.header-title {
+  text-align: center;
+  margin: 0 0 1rem 0;
+  font-size: 2rem;
+  font-weight: 600;
+}
+
 article {
   margin: 20px;
-  padding: 20px;
+  padding: 40px;
   border: 1px solid #ccc;
   font-family: sans-serif;
   line-height: 1.5;

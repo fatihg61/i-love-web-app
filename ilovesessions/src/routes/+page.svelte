@@ -9,6 +9,8 @@
 
 <Header />
 
+<h1 class="header-title">The we love web sessions blog by me FG!</h1>
+
 <main>
     <div class="timeline">
         <div class="timeline-item">
@@ -38,6 +40,10 @@
 <Footer />
 
 <style>
+.header-title {
+  text-align: center;
+}
+
 .timeline {
   display: flex;
   flex-direction: column;
