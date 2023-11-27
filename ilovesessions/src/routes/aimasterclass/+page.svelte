@@ -40,13 +40,17 @@
 
 
         <h3>Conclusie</h3>
-        <p>Conclusie</p>
 
         <p>Uit Fatih's talk over AI in front-end kunnen we concluderen dat AI een belangrijke rol gaat spelen in de ontwikkeling van webtoepassingen. AI wordt al op verschillende manieren gebruikt om front-end applicaties te verbeteren, zoals door taken te automatiseren, de gebruikerservaring te verbeteren en nieuwe mogelijkheden te creëren.</p>
           
         <p>De ontwikkeling van AI binnen front-end is wereldwijd zichtbaar. In de Verenigde Staten en Europa is er een toenemende vraag naar AI-competente front-end developers. Dit komt doordat steeds meer bedrijven AI-technologieën willen implementeren in hun webtoepassingen.</p>
           
         <p>De toekomstperspectieven voor AI in front-end zijn positief. AI-technologieën worden steeds krachtiger en toegankelijker, waardoor AI-toepassingen in de toekomst steeds vaker deel uit zullen maken van onze dagelijkse interactie met het web.</p>
+
+        <p>Wel 1 ding wat heel belangrijk is. AI zal een grote rol spelen maar het kan iemand lui maken. Er kan zelfs een kans komen dat meerendeel door middel van ai gemaakt zal worden. Bijvoorbeeld deze blog bestaat 40% uit Bard gegeneerd data.</p>
+
+
+        <p>bron: BARD</p>
   </article>
 </main>
 
