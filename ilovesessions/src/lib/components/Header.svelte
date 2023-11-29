@@ -8,6 +8,7 @@ import { FdndLogo } from '@fdnd/components';
   <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
   <ul class="menu">
     <li><a href="/">Home</a></li>
+    <li><a href="/about">About</a></li>
   </ul>
 </header>
     

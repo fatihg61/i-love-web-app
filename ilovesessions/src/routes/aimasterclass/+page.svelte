@@ -47,8 +47,17 @@
           Maar dan vraag ik me af hoe Hydration kan helpen om een progressive enhanced app te bouwen. Laten we door vragen.
         </p>
 
-        <p>We gaan nu aan Bard vragen hoe Hydration werkt met Sveltekit. Klik op read more voor het antwoord.</p>
-        <a href="https://g.co/bard/share/253f94a2722b" class="add-button">Read More</a>
+        <p>Dus laten we nu vragen aan Bard hoe je Hydration in SvelteKit helpt met bouwen van progressive enhanced app</p>
+        <a href="https://g.co/bard/share/444c1971d241" class="add-button">Read More</a>
+
+        <p> Dus wat we der uit kunnen halen is dat: In essentie stelt hydratatie in SvelteKit ontwikkelaars in staat om progressieve verbeterde applicaties te creëren die een naadloze en plezierige ervaring bieden voor alle gebruikers, ongeacht hun browsermogelijkheden of JavaScript-voorkeuren. 
+          De combinatie van SSR en hydratatie zorgt voor een balans tussen SEO-vriendelijkheid, prestatieoptimalisatie en toegankelijkheid, waardoor SvelteKit een aantrekkelijke keuze is voor het bouwen van moderne webapplicaties.</p>
+
+          <p>Laten we het uitproberen met de volgende:</p>
+          <a href="https://g.co/bard/share/83c90acf71f5" class="add-button">Read More</a>
+
+          <p>Oke het is allemaal fijn en als alleen dan kom ik gelijk bij een probleem met sveltekit over de @onclick. Dus verder vragen en na 3 keer yes dan heb ik eindelijk een werkende knop. Leuk en al zou je denken tot dat ik JS uit zet en da werkt niks meer. 
+            Uiteindelijk dankzij het hulp van Sanne wel de knop kunnen fixen maar dit laat weer zien dat je niet altijd der van uit kan gaan dat AI correcte code zal geven. Maar de uitleg over hydration en PE was wel echt handig dat was inhoudelijk wel juist. Het leuke was ook wel da tik dat samen met Joost had gevraagd om te kijken hoe Bard werkt omtrent hydration.</p>
 
         <br>
         <h3>Conclusie</h3>
