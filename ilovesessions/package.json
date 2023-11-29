@@ -19,12 +19,12 @@
 		"eslint-plugin-svelte": "^2.30.0",
 		"prettier": "^3.0.0",
 		"prettier-plugin-svelte": "^3.0.0",
-		"svelte": "^4.0.5",
-		"vite": "^4.4.2"
+		"svelte": "^4.0.5"
 	},
 	"type": "module",
 	"dependencies": {
 		"@fdnd/components": "^0.0.35",
-		"gsap": "^3.12.2"
+		"gsap": "^3.12.2",
+		"vite": "^4.5.0"
 	}
 }
