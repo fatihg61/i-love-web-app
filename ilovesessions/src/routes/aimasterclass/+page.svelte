@@ -38,6 +38,19 @@
         <h3>Toekomstperspectieven</h3>
         <p>De ontwikkeling van AI binnen front-end zal in de toekomst naar verwachting verder versnellen. Dit komt doordat AI-technologieën steeds krachtiger en toegankelijker worden. Hierdoor zullen AI-toepassingen in de toekomst steeds vaker deel uitmaken van onze dagelijkse interactie met het web. Front-end developers die willen blijven concurreren, zullen zich moeten blijven ontwikkelen op het gebied van AI. Dit betekent dat ze kennis moeten opdoen van AI-principes en -technologieën. Ook moeten ze in staat zijn om AI-toepassingen te integreren in hun front-end applicaties.</p>
 
+        <h3>Voorbeeld van AI</h3>
+        <p>We gaan nu aan Bard vragen hoe Hydration werkt met Sveltekit. Klik op read more voor het antwoord.</p>
+        <br>
+        <a href="https://g.co/bard/share/253f94a2722b" class="add-button">Read More</a>
+        <br>
+        <p>Samenvattend speelt hydratatie een cruciale rol in de architectuur van SvelteKit, waardoor een balans wordt gevonden tussen snelle eerste rendering, SEO-vriendelijkheid en interactieve gebruikerservaringen. Deelmatige hydratatie verbetert de prestaties verder door componenten selectief te hydrateren op basis van hun zichtbaarheid of interactiestaat.
+          Maar dan vraag ik me af hoe Hydration kan helpen om een progressive enhanced app te bouwen. Laten we door vragen.
+        </p>
+
+        <p>We gaan nu aan Bard vragen hoe Hydration werkt met Sveltekit. Klik op read more voor het antwoord.</p>
+        <a href="https://g.co/bard/share/253f94a2722b" class="add-button">Read More</a>
+
+        <br>
         <h3>Conclusie</h3>
 
         <p>Uit mijn talk over AI in front-end kunnen we concluderen dat AI een belangrijke rol gaat spelen in de ontwikkeling van webapps. AI wordt al op verschillende manieren gebruikt om front-end applicaties te verbeteren, zoals door taken te automatiseren, de gebruikerservaring te verbeteren en nieuwe mogelijkheden te creëren.</p>
@@ -74,6 +87,7 @@ main {
 
 h1, h3, p {
   max-width: 600px;
+  margin-top: 100px;
   margin: 0 auto 1em;
 }
 
@@ -86,6 +100,27 @@ ul li {
   margin: 0 auto 1em;
   font-family: sans-serif;
   line-height: 1.5;
+}
+
+.add-button {
+  transform: translateY(-50%);
+  background-color: #050542;
+  color: #66e5bf;
+  padding: 10px 20px;
+  border: #66e5bf 1px solid;
+  margin-bottom: 10%;
+  cursor: pointer;
+  z-index: 1;
+  margin-left: 29%;
+}
+
+@media (max-width: 768px) {
+  .add-button {
+    position: static;
+    display: block;
+    margin: 20px auto;
+    width: 25%;
+  }
 }
 
 </style>
